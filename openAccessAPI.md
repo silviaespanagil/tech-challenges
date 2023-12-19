@@ -36,8 +36,10 @@ Choose your favorite and let's code!
 
 ## TV and Cinema
 - [Disney API](https://disneyapi.dev/)
+- [RuPaul's Drag Race](https://aucoeur.dev/rpdrAPI/#/?id=basic-endpoints)
 
 ## Space, Nature and Weather
+- [Rest Countries](https://restcountries.com/)
 - [Launch Library: Rocket launches and space events](https://thespacedevs.com/llapi)
 - [NASA](https://api.nasa.gov/)
 - [Open meteo](https://open-meteo.com/)
