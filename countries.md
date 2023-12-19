@@ -1,13 +1,16 @@
 **Statement:**
+
 Develop an application that connects to the [https://restcountries.eu/](https://restcountries.com/) API.
 
 **Expected features**
+
 * Initial screen should show all the countries.
 * Clicking on a country should display the country details.
 * The application should allow searching by the country's name.
 * Deployed app in Github Pages or any other service.
 
 **Extras:**
+
 * Allow filtering by region.
 * Allow filtering by language.
 * In the detail, display the country's location on a map.
@@ -16,6 +19,7 @@ Develop an application that connects to the [https://restcountries.eu/](https://
 * Add an area to list favorites.
 
 **Could be nice**
+
 * Semantic HTML
 * Good practices
 * Responsive
