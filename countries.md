@@ -23,3 +23,4 @@ Develop an application that connects to the [https://restcountries.eu/](https://
 * Semantic HTML
 * Good practices
 * Responsive
+* Use of branches and Github Projects
