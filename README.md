@@ -6,6 +6,12 @@ Here you can find some "tech challenges" that you may use to practice for your i
 
 * [API List](https://github.com/silviaespanagil/tech-challenges/blob/main/listOfAPIs.md)
 
-## Front-end and Mobile challenges
+## FrontEnd and FullStack Challenges 
 * [Choose your own API challenge](https://github.com/silviaespanagil/tech-challenges/blob/main/anyAPIChallenge.md)
 * [Countries Challenge](https://github.com/silviaespanagil/tech-challenges/blob/main/countriesChallenge.md)
+
+## Mobile challenges
+Coming soon
+
+## BEN challenges
+Coming soon
