@@ -24,3 +24,8 @@ Develop an application that connects to the [https://restcountries.eu/](https://
 * Good practices
 * Responsive
 * Use of branches and Github Projects
+
+####💡Ideas to shine
+* Write your styles using a pre-processor, such as Sass, Less or any other you feel comfortable
+* Take care of the design. You can [look for inspiration here ](https://www.notion.so/P-ginas-para-inspiraci-n-de-dise-o-0089129dda28482482d8dd6baadd44a3)https://www.notion.so/P-ginas-para-inspiraci-n-de-dise-o-0089129dda28482482d8dd6baadd44a3
+  
