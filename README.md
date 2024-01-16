@@ -9,6 +9,7 @@ Here you can find some "tech challenges" that you may use to practice for your i
 ## FrontEnd and FullStack Challenges 
 * [Choose your own API challenge](https://github.com/silviaespanagil/tech-challenges/blob/main/anyAPIChallenge.md)
 * [Countries Challenge](https://github.com/silviaespanagil/tech-challenges/blob/main/countriesChallenge.md)
+* [Image Handler Challenge](https://github.com/silviaespanagil/tech-challenges/blob/main/imageHandlerChallenge)
 
 ## Mobile challenges
 Coming soon
