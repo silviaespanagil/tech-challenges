@@ -33,10 +33,12 @@ Choose your favorite and let's code!
 - [Genshin Impact](https://genshin.dev/)
 - [Hyrule Compendium](https://github.com/gadhagod/Hyrule-Compendium-API)
 - [Steam API](https://github.com/Revadike/InternalSteamWebAPI/wiki)
+- [Pokémon API] (https://pokeapi.co/)
 
 ## TV and Cinema
 - [Disney API](https://disneyapi.dev/)
 - [RuPaul's Drag Race](https://aucoeur.dev/rpdrAPI/#/?id=basic-endpoints)
+- [Star Wars API] (https://swapi.dev/)
 
 ## Space, Nature and Weather
 - [Rest Countries](https://restcountries.com/)
