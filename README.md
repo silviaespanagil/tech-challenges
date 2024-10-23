@@ -15,4 +15,4 @@ Here you can find some "tech challenges" that you may use to practice for your i
 Coming soon
 
 ## BEN challenges
-Coming soon
+* [Pokémon Challenge](https://github.com/silviaespanagil/tech-challenges/blob/main/pokemonChallenge.md)
